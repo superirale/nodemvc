@@ -1,0 +1,22 @@
+{
+  "name": "awesome-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "csv": "^1.1.0",
+    "ejs": "^2.5.1",
+    "express": "^4.14.0",
+    "express-csv": "^0.6.0",
+    "instagram-node": "^0.5.8",
+    "mysql": "^2.11.1",
+    "sequelize": "^3.24.1",
+    "sequelize-cli": "^2.4.0"
+  }
+}
